@@ -1,3 +1,4 @@
+[[Quotes]]
 
 *Gall's Law states that all complex systems that evolved from simpler systems that worked.* 
 ~ josh kaufman
