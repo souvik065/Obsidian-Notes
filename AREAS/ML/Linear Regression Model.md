@@ -61,6 +61,9 @@ Here’s how you can check for these assumptions:
     - Linear regression can be implemented using various libraries in programming languages like Python (e.g., `scikit-learn`, `statsmodels`) or R.
 
 
+![[11111111.png]]
+
+
 **Resource :**
 [Linear Regression By IBM](https://www.ibm.com/topics/linear-regression#:~:text=IBM-,What%20is%20linear%20regression%3F,is%20called%20the%20independent%20variable.)
 [ChatGPT](https://chatgpt.com/c/9fb9348b-e457-40cb-a360-28215205752a)
