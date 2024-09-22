@@ -53,3 +53,20 @@
 - (Most Imp mode) it is the actual Hadoop cluster.
 - Has multiple nodes few of them run Master daemon rest are slaves
 - Data that is distributed across different nodes
+
+
+### **YARN(Yet Another Resource Negotiator) in Hadoop**
+
+- YARN is core component of Hadoop
+- YAR is the next generation Hadoop computing of platforms
+- Available in Hadoop 2.0
+- it's separates the resource management layer and the processing component layer.
+- Resource Management: Monitor nodes, allocate resources and schedule jobs.
+- Node Manager: to oversee the containers running on the cluster nodes.
+- Application Master: which negotiates with  the resource manager for resources and runs the application-specific process 
+
+
+
+**Use Case:** Storing and processing large amounts of backup data in the cloud using Hadoop ensures data is always available and recoverable.
+
+**Use Case:** Hadoop can serve as a data warehouse for storing massive volumes of data and running complex queries across it.
