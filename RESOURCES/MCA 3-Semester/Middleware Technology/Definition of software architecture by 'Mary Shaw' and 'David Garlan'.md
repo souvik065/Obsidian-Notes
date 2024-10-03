@@ -1,5 +1,19 @@
 
 
+***Software Architecture is the structure of software system like blue prints in building architecture.***
+
+### **Software Architecture Consist of :**
+- Software Components
+- Details (Regrading Data-Structures and Components)
+- Relationship among components
+- Data Flow, Control Flow, dependency
+
+### **Elements of Software Architecture**
+- Component --> Abstract unit of software instruction and internal state which provides transformation of data.
+- Connectors --> Communicate, Co-Operate, Among Component.
+- Configuration Topologies --> Structure of Architectural Relationships
+- System Models --> Architectural Styles
+
 - Big Complex Project Needs Architecture
 
 

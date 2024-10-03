@@ -1,6 +1,6 @@
 
 
-- Hadoop is an open source framework that allows us to store & process large data sets in a parallel & **distributed manner**.
+- Hadoop is an open source framework that allows us to store & process large data sets in a **parallel** & **distributed manner**.+
 - Hadoop stores data in a distributed manner into multiple clusters.
 
 -  Doug Cutting and Mike Cafarella.
@@ -20,8 +20,10 @@
 - It also replicate multiple copy of Data nodes
 
 ## **MapReduce**
+- **MapReduce** performs the processing of large data sets in a distributed and parallel manner.
+- **MapReduce** consists of two distinct task - **Map** and **Reduce**. 
 - **MapReduce** is a processing element in the concept of key value pair.
-- MapReduce perform the processing of large data set in a distributed and parallel manner.
+ 
 - We need a processing unit which can parallelly process the data.
 - Their are two class inside this MapReduce 
 	1. Map
@@ -36,7 +38,7 @@
 
 1. Local (Standalone) - Default
 2. Pseudo distributed
-3. Fully Distributed
+3. Fully Distributed 
 
 ### Standalone Mode
 - None of the daemons will run (name node, Data name, Job-Tracker, Map-Reduce)
