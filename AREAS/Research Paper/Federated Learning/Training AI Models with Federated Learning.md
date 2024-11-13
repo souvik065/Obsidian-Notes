@@ -48,3 +48,5 @@ Consider the health care industry where federated learning allows medical instit
 # Cons 
 1. Risk of Inference Attack
 	- Where adversaries may try to extract information about the data from the shared model updates when we put them up there
+
+
