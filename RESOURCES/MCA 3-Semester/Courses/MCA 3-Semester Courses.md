@@ -8,7 +8,7 @@ Where we learn to improve our performance is called **Inductive Learning.**
 
 # Types of Learning
 
-1. **[[Supervised Learning]]**
+1. **[[RESOURCES/MCA 3-Semester/Courses/Supervised Learning]]**
 	-Learning an input and output map
 		-Classification: categorical output
 		-Regression: continuous output

@@ -1,0 +1,3 @@
+
+
+[[Types of Supervised Learning]]

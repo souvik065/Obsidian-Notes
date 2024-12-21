@@ -12,10 +12,10 @@ $y=β0+β1x+εy = \beta_0 + \beta_1 x + \varepsilony=β0​+β1​x+ε$
 
 Where:
 
-- yyy: Dependent variable (e.g., consumption).
-- xxx: Independent variable (e.g., income).
-- β1\beta_1β1​: Slope of the line.
-- β0\beta_0β0​: Intercept of the line.
+- $y$:  Dependent variable (e.g., consumption).
+- $x$:  Independent variable (e.g., income).
+- $\beta_1$:  Slope of the line.
+- $\beta_0$​:  Intercept of the line.
 
 ---
 

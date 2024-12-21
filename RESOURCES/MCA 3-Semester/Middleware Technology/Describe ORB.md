@@ -3,15 +3,14 @@ An **Object Request Broker (ORB)** is a middleware technology that allows commun
 
 ORBs are commonly used in distributed computing environments, enabling objects in different systems or across networks to interact as if they were in the same memory space
 
-
 Client-server systems uses distributed object technologies that facilitates interoperability across languages and platforms. It enhances maintainability and adaptability. This has led to middleware technology – ORB (Object Request Broker).
 
-•ORB supports a network of clients and servers
+• ORB supports a network of clients and servers
 
-•It is transparent and it knows the availability of services between the clients and servers
+• It is transparent and it knows the availability of services between the clients and servers
 
-•ORB – Middle tier acts as a broker
+• ORB – Middle tier acts as a broker
 
-•Interoperability
+• Interoperability
 
-•Strengths maintainability and adaptability
+• Strengths maintainability and adaptability

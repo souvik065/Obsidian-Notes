@@ -1,5 +1,5 @@
 
-*In this technique, which groups the un-labelled([[Unsupervised Learning]]) dataset.*
+*In this technique, which groups the un-labelled([[RESOURCES/MCA 3-Semester/Courses/Unsupervised Learning]]) dataset.*
 
 A way of grouping the data points into different clusters, consisting of similar data points.
 

@@ -12,12 +12,13 @@
 - Master Data
 
 
-- Purpose of HDFS is to store the data into multiple data node into a cluster form.
 
 ## **HDFS(Hadoop Distributed File System)**
 - It's one partition it self is 128MB
 -  We can access data through **Master Node(meta data)**.
 - It also replicate multiple copy of Data nodes
+- Purpose of HDFS is to store the data into multiple data node into a cluster form.
+
 
 ## **MapReduce**
 - **MapReduce** performs the processing of large data sets in a distributed and parallel manner.
@@ -28,7 +29,7 @@
 - Their are two class inside this MapReduce 
 	1. Map
 	2. Reduce
-	- It work's in **divide** and **conure** approach (divide and conure rule means, it split's or breaks the problem into small problems.)
+	- It work's in **divide** and **concur** approach (divide and conure rule means, it split's or breaks the problem into small problems.)
 - Two essential daemons of MapReduce: **Job-Tracker** and **Task-Tracker**.
 - Job-Tracker works as **Master Tracker**, Monitoring
 - Task-Tracker work as Slave/Employee
@@ -60,7 +61,7 @@
 ### **YARN(Yet Another Resource Negotiator) in Hadoop**
 
 - YARN is core component of Hadoop
-- YAR is the next generation Hadoop computing of platforms
+- YARN is the next generation Hadoop computing of platforms
 - Available in Hadoop 2.0
 - it's separates the resource management layer and the processing component layer.
 - Resource Management: Monitor nodes, allocate resources and schedule jobs.
