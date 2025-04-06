@@ -8,7 +8,7 @@ The guide offers detailed categories and examples within each of these component
 
 # What Is a Cyber Risk Scenario?
 
-The risk scenario is the starting point of an analysis. Think of it as a problem that needs to be analyzed and solved. A risk scenario describes a time-bound, probable loss event and specifies the threat actor and method, the asset at risk, and the effect or consequence that may occur during that time.
+The risk scenario is the starting point of an analysis. Think of it as a problem that needs to be analyzed and solved. **A risk scenario describes a time-bound, probable loss event and specifies the threat actor and method, the asset at risk, and the effect or consequence that may occur during that time.**
 
 
 # Risk assessment prepares you to answer three questions:
@@ -40,6 +40,11 @@ For our purposes, an asset may or may not be reflected on the balance sheet of t
 A method is a specific attack vector used to access or affect the asset. These methods lead to the impact of an attack (Effect) on business operations, data integrity, and financial stability.
 
 Discussions of risk scenarios sometimes leave out method as a defining element. For example, the authors of Measuring and Managing Information Risk: A Fair Approach, leave method out of their tables (e.g., Table 6.1 on page 97) enumerating risk scenarios. However, cyber risk scenarios involving different methods are often quite different from one another in terms of the level of risk and the controls necessary to reduce their risk, so we’ve included method as a defining element in our taxonomy.
+
+
+# Effect
+
+Loss effect is the type of loss expected to materialize from a threat actor attacking a specific asset. The effect is expressed in terms of how the asset is impacted (i.e., confidentiality, integrity, and availability) and, in turn, how it translates into a material loss to the business.
 
 
 # Loss Categories

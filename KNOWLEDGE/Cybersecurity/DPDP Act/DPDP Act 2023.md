@@ -1,4 +1,5 @@
 
+
 # Digital Personal Data Protection  Act, 2023:
 
 - Enacted to safeguard personal data and regulate its processing.
@@ -92,3 +93,6 @@ This act says that every citizen has right to privacy with regards to personal D
 	- **₹200 crore fine** for failing to prevent a data breach.
 	- Lesser penalties for non-compliance with data subject rights.
 	
+
+
+
