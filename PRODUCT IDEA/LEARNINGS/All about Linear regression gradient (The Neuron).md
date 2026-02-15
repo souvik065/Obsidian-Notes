@@ -1,5 +1,7 @@
 
-
+Source:
+[ChatGPT mcab03@kristujayanti.com](https://chatgpt.com/share/69922ff3-9bb4-8012-8a3b-514db58adc25)
+[ChatGPT Souvk065](https://chatgpt.com/c/6991b978-f498-8322-a880-d518f483f895)
 # Use of linear regression gradient
 
 
@@ -90,7 +92,7 @@ So:
     
 
 That’s why we call it a parameter.
-
+Learn More: [[Why do we have weights at all]]
 
 ---
 
