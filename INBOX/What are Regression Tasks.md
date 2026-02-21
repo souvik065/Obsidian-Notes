@@ -121,3 +121,9 @@ The model learns weights that minimize an error like:
 - Mean Squared Error (MSE)
     
 - Mean Absolute Error (MAE)
+
+
+---
+
+**Source : `ChatGPT` Account :** bhattacharyasouvik065@gmail.com
+[Chat-1](https://chatgpt.com/share/6999b73a-fde0-800a-87a5-f46c36da47c8)
