@@ -122,6 +122,10 @@ The model learns weights that minimize an error like:
     
 - Mean Absolute Error (MAE)
 
+---
+## Common Techniques in Feature Engineering
+
+Go TO -> [[Common Techniques in Feature Engineering]]
 
 ---
 
